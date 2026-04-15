@@ -5,5 +5,5 @@ Github repo for the CIS 3902 - 1 final dataset project
 
 - Variables within the notebook consist of traits of phishing websites given numerical indicators (1, -1, etc.)
 
-- The juypter notebook is linked here: https://github.com/MasoWest/CIS---3902---1-Project/blob/main/DataMining_Project_Template_Spring_2026_MGW.ipynb
+- The juypter notebook is linked here: https://github.com/MasoWest/CIS---3902---1-Project/blob/main/DataMining_Project_Template_Spring_2026_MGW2_5%20(1).ipynb
 
