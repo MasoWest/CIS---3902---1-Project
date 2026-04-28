@@ -7,5 +7,5 @@ Github repo for the CIS 3902 - 1 final dataset project
 
 - Currently, a phishing website is detected if an Is_Phishing_SIte feature detects a 1 in the Results column. 0/-1 Indicates a trait is not present in the website.
 
-- The latest juypter notebook iteration is linked here: 
+- The latest juypter notebook iteration is linked here: https://github.com/MasoWest/CIS---3902---1-Project/blob/main/DataMining_Project_Phishing_Spring_2026_MGW4_3.ipynb
 
