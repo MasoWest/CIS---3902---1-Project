@@ -9,3 +9,5 @@ Github repo for the CIS 3902 - 1 final dataset project
 
 - The latest juypter notebook iteration is linked here: https://github.com/MasoWest/CIS---3902---1-Project/blob/main/DataMining_Project_Phishing_Spring_2026_MGW4_3.ipynb
 
+- Basic ai assistance (questioning obscure topics) was utlized.
+
